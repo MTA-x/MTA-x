@@ -50,7 +50,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   
   ---
  
-![MTA GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![MTA GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA-x&theme=dark&show_icons=true)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mta-x&" alt="mta-x" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mta-x&show_icons=true&locale=en&layout=compact" alt="mta-x" /></p>
