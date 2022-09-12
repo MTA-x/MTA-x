@@ -51,7 +51,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
   ---
  
 ![MTA GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA-x&theme=dark&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mta-x&" alt="mta-x" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MTA-x&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mta-x&show_icons=true&locale=en&layout=compact" alt="mta-x" /></p>
 
