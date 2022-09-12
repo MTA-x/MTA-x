@@ -47,8 +47,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 <details>
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
----
-
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mta-x&show_icons=true&locale=en" alt="mta-x" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mta-x&" alt="mta-x" /></p>
 
