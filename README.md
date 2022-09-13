@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋 , I'm Talha</h1>
 <h3 align="center">A Passionate Java Developer From Turkey</h3>
 
+<a href="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3b7b51d8-b103-4ad5-938e-36ae8aab5c86"><img src="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3b7b51d8-b103-4ad5-938e-36ae8aab5c86.svg" alt="wakatime"></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mta-x&label=Profile%20views&color=0e75b6&style=flat" alt="mta-x" /> </p>
 
 ---
@@ -57,4 +59,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTA-x&layout=compact&html=ff2244&css=00000&scss=222222&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-https://github.com/USERNAME/MTA/settings/secrets/actions/new
