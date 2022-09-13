@@ -56,6 +56,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MTA-x&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ![MTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA-x&show_icons=true&theme=dracula)
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTA-x&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
 
 
