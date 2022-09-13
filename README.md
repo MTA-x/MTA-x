@@ -55,3 +55,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA-x&show_icons=true&theme=dracula)
  
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MTA-x&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
+</a>
