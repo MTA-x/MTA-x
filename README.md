@@ -55,4 +55,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 
 ![MTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA-x&show_icons=true&theme=dracula)
  
-[![MTA's github stats](https://github-readme-stats.vercel.app/api?username=MTA)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTA-x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
