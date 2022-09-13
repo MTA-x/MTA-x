@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Talha</h1>
 <h3 align="center">A Passionate Java Developer From Turkey</h3>
 
+?style=socail
 <a href="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3e486c51-02bc-461b-a8b3-d45851bc7f43"><img src="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3e486c51-02bc-461b-a8b3-d45851bc7f43.svg" alt="wakatime"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mta-x&label=Profile%20views&color=0e75b6&style=flat" alt="mta-x" /> </p>
 
