@@ -57,4 +57,3 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MTA-x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MTA-x)](https://github.com/anuraghazra/github-readme-stats)
