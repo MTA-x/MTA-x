@@ -2,8 +2,9 @@
 <h3 align="center">A Passionate Java Developer From Turkey</h3>
 
 ---
-
+<p align="center">
 <a href="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3b7b51d8-b103-4ad5-938e-36ae8aab5c86"><img src="https://wakatime.com/badge/user/46a7dcad-8cdb-4069-b36c-4d6845cde06d/project/3b7b51d8-b103-4ad5-938e-36ae8aab5c86.svg" alt="wakatime"></a>
+</p>
 
 ---
 
