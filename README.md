@@ -53,8 +53,6 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/pyth
 ![MTA GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA-x&theme=dark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MTA-x&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA-x&show_icons=true&theme=dracula)
+![MTA's GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA-x&show_icons=true&theme=dracula)
  
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=MTA-x&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
-</a>
+[![MTA's github stats](https://github-readme-stats.vercel.app/api?username=MTA)](https://github.com/anuraghazra/github-readme-stats)
