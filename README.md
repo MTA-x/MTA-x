@@ -50,7 +50,9 @@
 ![MTA GitHub stats](https://github-readme-stats.vercel.app/api?username=MTA-x&theme=dark&show_icons=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MTA-x&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
   
- https://github-readme-stats.vercel.app/api/top-langs/?username=MTA-x&langs_count=8&count_private=false&layout=compact&theme=react&hide_border=true&bg_color=0D1117
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![MTA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MTA-x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
