@@ -52,7 +52,7 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
-[![MTA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MTA-x&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![MTA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MTA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
