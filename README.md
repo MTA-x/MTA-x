@@ -52,12 +52,6 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-
----
-  
-#WAKA TIME STATS  
-[![MTA's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MTA&theme=dark&show_icon=true)](https://github.com/anuraghazra/github-readme-stats)
-  
 ---  
 
 ### ✍️ Random Dev Quote
