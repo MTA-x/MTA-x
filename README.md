@@ -54,4 +54,6 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight" />
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
